@@ -1,2 +1,4 @@
 # tasks
-Various solved tasks
+ENG: Various solved tasks
+
+RUS: Различные решенные задания (олимпиадные, лабораторные из университета и т. д.)
